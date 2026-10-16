@@ -1,3 +1,5 @@
+DEVELOPMENT STARTED 15/10/2026 08:34 P. M
+
 # Luma3DS
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/LumaTeam/Luma3DS/total)
